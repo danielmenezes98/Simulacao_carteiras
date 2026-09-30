@@ -1,2 +1,2 @@
-# Simula-o-de-Carteiras
+# Simulação - Carteiras
 Simulação e análise de carteiras de investimentos utilizando Python.

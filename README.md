@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Python para simular a evolução de uma carteira de investimentos e comparar seu desempenho com o índice Ibovespa (IBOV).
 
-A análise utiliza dados históricos de diferentes ativos para acompanhar a evolução do patrimônio ao longo do período de 2016 a 2026.
+A análise utiliza dados históricos de diferentes ativos, para acompanhar a evolução do patrimônio ao longo do período de 2016 a 2026.
 
 ---
 
